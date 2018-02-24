@@ -1,0 +1,60 @@
+.about
+{justify-content: center;}
+
+ul {
+list-style-type: none;
+margin: 0;
+padding: 0;
+overflow: hidden;
+background-color: #494949;
+display: flex;
+padding: 0px;
+justify-content: space-between;
+}    
+    
+li {
+float: left;
+}
+
+li a {
+display: block;
+color: white;
+text-align: center;
+padding: 12px 14px;
+text-decoration: none;
+}
+
+li a:hover {
+background-color: greenyellow;
+}
+.aboutme
+{
+float: right;
+}
+.ID {
+display: flex;
+width: 150px;
+height: 200px;
+    }
+github {
+color: black;
+}
+.linkedin {
+color: blue;
+}
+.overflow {
+color: orange;
+}
+.aside {
+margin-top: 20px;
+float: right;
+width: 270px;
+background: #ffffff;
+font-family: Georgia, 'Times New Roman', Times, serif;
+font-weight: bolder;
+text-align: center;
+    }
+.CT {
+height: 250px;
+width: 250px;
+}
