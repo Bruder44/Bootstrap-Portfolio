@@ -32,7 +32,7 @@ background-color: greenyellow;
 }
 .aboutme
 {
-float: right;
+float: left;
 }
 .ID {
 display: flex;
