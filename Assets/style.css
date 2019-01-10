@@ -1,6 +1,18 @@
-.about
-{justify-content: center;}
+.about {
+justify-content: center;
+}
 
+.content {
+    /* width: 80% */
+}
+
+.row {
+display: flex;
+flex-wrap: wrap;
+/* margin-right: -15px;
+margin-left: -15px; */
+margin: 0 auto;
+}
 ul {
 list-style-type: none;
 margin: 0;
@@ -13,7 +25,7 @@ justify-content: space-between;
 }    
     
 li {
-float: left;
+/* float: left; */
 }
 
 li a {
@@ -30,9 +42,9 @@ background-color: white;
 li a:hover {
 background-color: greenyellow;
 }
-.aboutme
+.me
 {
-float: left;
+/* float: left; */
 }
 .ID {
 display: flex;
@@ -50,14 +62,29 @@ color: orange;
 }
 .aside {
 margin-top: 20px;
-float: right;
-width: 270px;
+/* float: right; */
+/* width: 270px; */
+/* width: 20%; */
 background: #ffffff;
 font-family: Georgia, 'Times New Roman', Times, serif;
 font-weight: bolder;
 text-align: center;
     }
-.CT {
-height: 250px;
-width: 250px;
+.Click-Game {
+width: 100%;
+}
+.NewsScraper {
+width: 100%;
+}
+.SoccerFriend {
+width: 100%;
+}
+.yougoall {
+width: 100%;
+}
+.Trivia {
+width: 100%;
+}
+.giphypopulator {
+width: 100%;
 }
