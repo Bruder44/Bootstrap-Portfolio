@@ -23,7 +23,10 @@ text-align: center;
 padding: 12px 14px;
 text-decoration: none;
 }
-
+li a:click
+{
+background-color: white;
+}
 li a:hover {
 background-color: greenyellow;
 }
